@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.zdtest.ne540pp_zip</string>
+                <string>com.zdtest.test_zip</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ne540pp.zip.ipa</string>
+                <string>test.zip.ipa</string>
             </dict>
         </dict>
     </array>
